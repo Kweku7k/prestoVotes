@@ -6,6 +6,7 @@ import Selectedcategory from './Pages/SelectCategory';
 import Candidates from './Pages/Candidates';
 import Selectedcandidate from './Pages/SelectedCandidate';
 import LandingPage from './Pages/LandingPage';
+import LearningPage from './Pages/LearningPage';
 
 function App() {
   return (
